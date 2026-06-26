@@ -69,6 +69,8 @@ Dynamic pricing system supporting:
 Supported currencies:
 
 * 🇺🇸 USD ($)
+* INR
+* EURO
 
 Pricing is calculated dynamically using a configuration matrix instead of hardcoded values.
 
